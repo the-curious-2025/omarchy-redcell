@@ -44,7 +44,7 @@ BlackArch, then the AUR for each tool.
 ## Install
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/omarchy-redcell.git
+git clone https://github.com/the-curious-2025/omarchy-redcell.git
 cd omarchy-redcell
 ./install.sh
 ```

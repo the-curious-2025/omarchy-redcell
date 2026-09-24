@@ -21,7 +21,7 @@ set -Eeuo pipefail
 REDCELL_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
 readonly REDCELL_ROOT
 readonly REDCELL_VERSION="1.0.0"
-readonly REDCELL_REPO_SLUG="YOUR-GITHUB-USERNAME/omarchy-redcell"
+readonly REDCELL_REPO_SLUG="the-curious-2025/omarchy-redcell"
 
 readonly REDCELL_LOG_DIR="${REDCELL_ROOT}/logs"
 mkdir -p "$REDCELL_LOG_DIR"
