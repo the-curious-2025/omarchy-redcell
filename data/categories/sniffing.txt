@@ -1,0 +1,8 @@
+# Sniffing & Spoofing
+# package|description
+wireshark-qt|Network protocol analyzer with GUI
+tcpdump|Command-line packet capture
+ettercap|Man-in-the-middle attack suite
+bettercap|Swiss-army-knife for network attacks and monitoring
+mitmproxy|Interactive HTTPS proxy for traffic inspection
+macchanger|MAC address spoofing utility

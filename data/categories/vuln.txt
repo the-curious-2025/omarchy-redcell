@@ -1,0 +1,6 @@
+# Vulnerability Analysis
+# package|description
+nikto|Web server scanner for dangerous files and outdated software
+lynis|Security auditing and hardening scanner for Linux
+nuclei|Fast, template-based vulnerability scanner
+legion|Semi-automated network penetration testing framework

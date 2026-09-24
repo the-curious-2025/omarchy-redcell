@@ -1,0 +1,10 @@
+# Web Application Analysis
+# package|description
+burpsuite|Web proxy and application security testing suite
+sqlmap|Automated SQL injection and database takeover tool
+gobuster|Directory, DNS and vhost brute-forcing
+ffuf|Fast web fuzzer written in Go
+wpscan|WordPress vulnerability scanner
+zaproxy|OWASP ZAP web application scanner
+wfuzz|Web application fuzzer
+whatweb|Web technology fingerprinting

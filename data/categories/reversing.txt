@@ -1,0 +1,7 @@
+# Reverse Engineering
+# package|description
+ghidra|NSA's software reverse engineering suite
+radare2|Command-line reverse engineering framework
+gdb|GNU debugger
+apktool|Android APK decompiler and rebuilder
+cutter|GUI frontend for radare2

@@ -1,0 +1,8 @@
+# Wireless Attacks
+# package|description
+aircrack-ng|WiFi security auditing suite (capture, injection, cracking)
+reaver|WPS brute-force attack tool
+wifite|Automated wireless attack tool
+kismet|Wireless network detector and sniffer
+bully|WPS brute-force attack implementation
+hcxtools|Tools for converting wireless captures for hashcat

@@ -1,0 +1,7 @@
+# Digital Forensics
+# package|description
+autopsy|Digital forensics platform and GUI for The Sleuth Kit
+sleuthkit|Command-line digital forensics tools
+binwalk|Firmware analysis and extraction tool
+foremost|File carving and data recovery tool
+volatility3|Memory forensics framework

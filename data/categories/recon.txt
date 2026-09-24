@@ -1,0 +1,12 @@
+# Information Gathering
+# package|description
+nmap|Network discovery and port scanning
+whois|Domain and IP registration lookups
+dnsenum|DNS enumeration and zone transfer testing
+theharvester|Email, subdomain and name harvesting from public sources
+amass|In-depth attack surface mapping and asset discovery
+dnsrecon|DNS reconnaissance and enumeration
+fierce|Domain scanner for locating targets
+recon-ng|Full-featured web reconnaissance framework
+sublist3r|Subdomain enumeration tool
+masscan|High-speed port scanner
