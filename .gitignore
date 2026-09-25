@@ -1,0 +1,10 @@
+# Runtime logs
+logs/
+
+# Editor / OS cruft
+.DS_Store
+*.swp
+*.swo
+
+# Shellcheck cache (if run locally with caching tools)
+.shellcheckrc.cache
